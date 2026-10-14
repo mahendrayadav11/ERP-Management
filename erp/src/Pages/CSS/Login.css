@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+
+.login-page-outer{
+    height: 100vh;
+    width: 100%;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+
+.login-outer{
+    height: 400px;
+    width: 400px;
+    background-color: pink;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 30px;
+}
+
+.login-outer .email-box>input{
+    height: 40px;
+    width: 280px;
+    font-size: 18px;
+    padding-left: 10px;
+    outline: none;
+    border-radius: 10px;
+}
+
+.login-outer .otp-box>input{
+    height: 40px;
+    width: 280px;
+    font-size: 18px;
+    padding-left: 10px;
+    outline: none;
+    border-radius: 10px;
+}
+
+.login-outer>button{
+    height: 40px;
+    width: 180px;
+    font-size: 18px;
+    
+    outline: none;
+    border-radius: 10px;
+}

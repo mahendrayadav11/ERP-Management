@@ -1,0 +1,58 @@
+.all-subject-header {
+    width: 100%;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0px 0px 6px rgba(131, 125, 126, 0.2);
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.all-create-subject {
+    background-color: #0b3d78;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.modal-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.subject-body>input {
+    width: 75%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 2px solid;
+    outline: none;
+    border-radius: 5px;
+    font-size: 20px;
+    margin: 0 auto;
+}
+
+.subject-body>button {
+    padding: 10px 20px;
+    margin-left: 20px;
+    border: 2px solid;
+    outline: none;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: #0b3d78;
+    color: white;
+}
+
+.subject-edit-btn{
+    background-color: #0b3d78;
+    color: white;
+    border: none;
+    margin-right: 10px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: 600;
+    cursor: pointer;    
+}

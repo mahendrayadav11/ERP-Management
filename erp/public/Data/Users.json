@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "name":"mahendra",
+        "email":"myadav@gmail.com",
+        "otp":"1234",
+        "role":"SupperAdmin",
+        "token":"asdfjdfjskdj2342453434"
+    },
+
+    {
+        "id":2,
+        "name":"rahul",
+        "email":"rahul@gmail.com",
+        "otp":"5678",
+        "role":"Admin",
+         "token":"asdfjdfjskdjdfsadfa8675645342"
+    },
+    {
+        "id":3,
+        "name":"Yadav",
+        "email":"yadav@gmail.com",
+        "otp":"1234",
+        "role":"Teacher",
+         "token":"asdfjdfjskdjdfsa8767755"
+    }
+]
